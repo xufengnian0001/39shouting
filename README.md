@@ -1,6 +1,6 @@
 
 ## 自己的收集使用教程具体找  作者  
- ### fork 好后，点击 Settings 、 secrets 、 New repository secrets 进行添加相关数据
+ ### fork 好后，点击 Settings 、 secrets 、 New repository secrets 进行添加相关数据1
  参数如下：  
 |  Name | Value  |
 |  --- | --- |
